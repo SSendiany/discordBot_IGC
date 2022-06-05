@@ -1,0 +1,21 @@
+{
+  "name": "discord-igc",
+  "version": "1.0.0",
+  "description": "Discord bot for Indo gamers club",
+  "main": "index.js",
+  "dependencies": {
+    "@discordjs/opus": "^0.5.3",
+    "discord.js": "^12.5.3",
+    "ffmpeg-static": "^4.4.0",
+    "yt-search": "^2.9.0",
+    "ytdl-core": "^4.9.0"
+  },
+  "devDependencies": {
+    "dotenv": "^10.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SSendiany",
+  "license": "ISC"
+}
